@@ -2,6 +2,7 @@
 
 ## Design
 
+- Screen design (inspiration from other apps) https://screensdesign.com/
 - Design Android https://developer.android.com/design/ui
 
 ## Marketing
